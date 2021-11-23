@@ -1,0 +1,183 @@
+header{
+    background-color: rgb(221, 204, 218);
+    height: 300px;
+}
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    margin: 20px;
+    float: left;
+    border-style: solid;
+    
+}
+.name{
+ float: left;
+    text-align: center;
+    margin-left: 50%;
+   border-radius: 5px;
+    color: rgb(10, 64, 241);
+   
+}
+
+.line{
+    border-bottom-style: solid;
+    padding: 60px;
+    
+    
+}
+
+.icons{
+    margin-left: 40px;
+    
+}
+small{
+    padding: 50px;
+}
+
+.left{
+    background-color: beige;
+
+    float: left;
+    height: 450px;
+    width: 20%;
+    border-radius: 90px;
+    margin: 5px;
+  padding: 10px;
+}
+.right{
+    background-color: rgb(224, 219, 213);
+border-color: rgb(255, 8, 152);
+  float:left;
+    height: 450px;
+   
+    width: 75%;
+    border-radius: 90px;
+    margin: 5px;
+    padding: 10px;
+   
+}
+.Title{
+    background-color: blanchedalmond;
+    font-style: italic;
+}
+.pg{
+    font-size:small;
+}
+.nav{
+    background-color: rgb(192, 245, 232);
+    padding: 5px;
+    margin: 10px;
+    clear: both;
+  display: block;
+   
+    
+}
+.nav a{
+    color: rgb(12, 12, 12);
+    text-decoration: none;
+    padding: 10px;
+    cursor: pointer;
+    
+
+   
+    
+  
+   
+}
+.nav a:hover{ background-color:brown
+   
+    
+}
+.icons1{
+ float: left;
+  
+
+}
+
+
+
+.course1{
+    background-color: rgb(162, 240, 240);
+    float: left;
+    height: 200px;
+    width: 95%;
+    border-radius: 60px;
+    margin: 5px;
+    padding: 10px;
+}
+.projec{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.img{
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: rgb(228, 205, 205) 5px 5px 5px ;
+
+}
+.img1{
+    float: left;
+    color: rgb(255, 0, 0);
+}
+.video{
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: rgb(228, 205, 205) 5px 5px 5px ;
+
+
+}
+.divideo{
+    float: left;
+    color: rgb(255, 0, 0);
+}
+.q{
+    text-align: center;
+   box-shadow: rgb(247, 0, 255);
+   height: 30px;
+   padding: 10px;
+   border-radius: 500px;
+   margin: 30px;
+    background-color: rgb(108, 184, 255);
+    color: rgb(61, 58, 60);
+
+}
+body{
+    background-color: rgb(238, 235, 241);
+}
+
+.photo1{
+    height: 150px;
+    width: 150px;
+    
+}
+
+
+
+.ph{
+
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    margin: 20px;
+    float: right;
+    border-style: solid;
+}
+
+.divideo1{
+    float: none;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    border-radius: 100px;
+    margin: 1px;
+    padding: 2px;
+
+}
